@@ -18,7 +18,7 @@ graph LR
 
 ```bash
 git clone https://github.com/ByeongHunKim/KAIT-terraform.git
-cd terraform-workshop
+cd KAIT-Terraform
 ```
 
 ---
