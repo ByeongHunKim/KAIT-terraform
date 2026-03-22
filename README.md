@@ -17,7 +17,7 @@ graph LR
 | Terraform Cloud | Organization 설정 필요 (backend.tf) |
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ByeongHunKim/KAIT-terraform.git
 cd terraform-workshop
 ```
 
